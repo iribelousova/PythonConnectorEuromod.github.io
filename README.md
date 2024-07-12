@@ -40,7 +40,7 @@ Documentation for Python Connector for EUROMOD is available here:
 
 [doc]: https://github.com/iribelousova/PythonConnectorEuromod
 
-[doc-getstarted]:  https://github.com/iribelousova/PythonConnectorEuromod.github.io/getstrated.html
+[doc-getstarted]:  https://github.com/iribelousova/PythonConnectorEuromod.github.io/getstarted.html
 
 [doc-simulations]: https://github.com/iribelousova/PythonConnectorEuromod.github.io/example.html
 
