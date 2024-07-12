@@ -7,4 +7,11 @@ version: 2
 # Set the OS, Python version and other tools you might need
 build:
   os: ubuntu-22.04
+  tools:
+    python: "3.12"
+  commands:
+    - pip install myst_parser
+    - pip install sphinx_rtd_theme
+    - pip install myst-nb
+    - pip install sphinxcontrib-napoleon
 
